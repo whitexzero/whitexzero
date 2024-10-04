@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm White Zero</h1>
+<h1 align="center">Hi 👋, I'm Raphael</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whitexzero&label=Profile%20views&color=0e75b6&style=flat" alt="whitexzero" /> </p>
